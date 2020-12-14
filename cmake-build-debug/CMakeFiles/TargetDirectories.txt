@@ -1,3 +1,0 @@
-C:/Users/LordMordulec/CLionProjects/Lista3/cmake-build-debug/CMakeFiles/Lista3.dir
-C:/Users/LordMordulec/CLionProjects/Lista3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/LordMordulec/CLionProjects/Lista3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
