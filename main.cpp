@@ -72,7 +72,7 @@ int main() {
 //    v_test_catble_operator_with_ms();
     v_test_dynamic_cast();
 
-//    CTable cTable1, cTable2;
+    CTable cTable1, cTable2;
 //    cTable2 = cTable1;
 
 
