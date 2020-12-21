@@ -69,7 +69,7 @@ int main() {
 //    v_test_smart_pointer_op_overload();
 //    v_test_ctab_mv_operator();
 //    v_test_smart_pointer_with_ctab();
-//    v_test_catble_operator_with_ms();
+    v_test_catble_operator_with_ms();
     v_test_dynamic_cast();
 
     CTable cTable1, cTable2;
